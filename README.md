@@ -1,2 +1,2 @@
 # TestingDemo
-This a repository, trying to find my around Git.
+This a repository, trying to find my way around Git.
